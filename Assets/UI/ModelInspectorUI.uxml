@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/ModelInspectorUI.uss?fileID=7433441132597879392&amp;guid=d633684a39e0c914da678f4505b87d39&amp;type=3#ModelInspectorUI" />
+    <ui:VisualElement name="MainPanel" class="panel" style="flex-grow: 1;">
+        <ui:Button text="Parse" name="ParseButton" class="unity-button" />
+    </ui:VisualElement>
+    <ui:Button text="Button" />
+</ui:UXML>

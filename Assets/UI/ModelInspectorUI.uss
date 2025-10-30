@@ -1,0 +1,39 @@
+.panel {
+    background-color: rgba(214, 185, 185, 0.73);
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.parse-button {
+    background-color: rgb(147, 124, 142);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-left-color: rgb(101, 63, 63);
+    border-right-color: rgb(101, 63, 63);
+    border-top-color: rgb(101, 63, 63);
+    border-bottom-color: rgb(101, 63, 63);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.parse-button:hover {
+    border-left-color: rgb(147, 124, 142);
+    border-right-color: rgb(147, 124, 142);
+    border-top-color: rgb(147, 124, 142);
+    border-bottom-color: rgb(147, 124, 142);
+}
